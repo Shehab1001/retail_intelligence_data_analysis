@@ -1,4 +1,4 @@
-id,title,price,category,rating.rate,rating.count
+id,title,price,category,rating_rate,rating_count
 1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",109.95,men's clothing,3.9,120
 2,Mens Casual Premium Slim Fit T-Shirts ,22.3,men's clothing,4.1,259
 3,Mens Cotton Jacket,55.99,men's clothing,4.7,500
