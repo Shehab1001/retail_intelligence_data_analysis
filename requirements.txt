@@ -1,0 +1,8 @@
+pandas
+numby
+plotly
+beautifulsoup4
+yfinance
+lxml
+requests
+nbformat
