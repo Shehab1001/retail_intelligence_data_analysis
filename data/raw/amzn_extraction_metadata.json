@@ -1,0 +1,8 @@
+{
+    "ticker": "AMZN",
+    "extracted_at_utc": "2026-11-04T23:10:29.378066+00:00",
+    "period": "1y",
+    "interval": "1d",
+    "auto_adjust": false,
+    "record_count": 251
+}

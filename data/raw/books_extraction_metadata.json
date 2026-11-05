@@ -1,0 +1,11 @@
+{
+    "source": "https://books.toscrape.com/",
+    "extracted_at_utc": "2026-11-04T23:47:39.347380+00:00",
+    "requested_pages": [
+        1,
+        2,
+        3
+    ],
+    "failed_or_empty_pages": [],
+    "record_count": 60
+}
