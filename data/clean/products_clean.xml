@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <id>1</id>
+    <title>Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops</title>
+    <price>109.95</price>
+    <category>men's clothing</category>
+    <rating_rate>3.9</rating_rate>
+    <rating_count>120</rating_count>
+  </row>
+  <row>
+    <index>1</index>
+    <id>2</id>
+    <title>Mens Casual Premium Slim Fit T-Shirts </title>
+    <price>22.3</price>
+    <category>men's clothing</category>
+    <rating_rate>4.1</rating_rate>
+    <rating_count>259</rating_count>
+  </row>
+  <row>
+    <index>2</index>
+    <id>3</id>
+    <title>Mens Cotton Jacket</title>
+    <price>55.99</price>
+    <category>men's clothing</category>
+    <rating_rate>4.7</rating_rate>
+    <rating_count>500</rating_count>
+  </row>
+  <row>
+    <index>3</index>
+    <id>4</id>
+    <title>Mens Casual Slim Fit</title>
+    <price>15.99</price>
+    <category>men's clothing</category>
+    <rating_rate>2.1</rating_rate>
+    <rating_count>430</rating_count>
+  </row>
+  <row>
+    <index>4</index>
+    <id>5</id>
+    <title>John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet</title>
+    <price>695.0</price>
+    <category>jewelery</category>
+    <rating_rate>4.6</rating_rate>
+    <rating_count>400</rating_count>
+  </row>
+  <row>
+    <index>5</index>
+    <id>6</id>
+    <title>Solid Gold Petite Micropave </title>
+    <price>168.0</price>
+    <category>jewelery</category>
+    <rating_rate>3.9</rating_rate>
+    <rating_count>70</rating_count>
+  </row>
+  <row>
+    <index>6</index>
+    <id>7</id>
+    <title>White Gold Plated Princess</title>
+    <price>9.99</price>
+    <category>jewelery</category>
+    <rating_rate>3.0</rating_rate>
+    <rating_count>400</rating_count>
+  </row>
+  <row>
+    <index>7</index>
+    <id>8</id>
+    <title>Pierced Owl Rose Gold Plated Stainless Steel Double</title>
+    <price>10.99</price>
+    <category>jewelery</category>
+    <rating_rate>1.9</rating_rate>
+    <rating_count>100</rating_count>
+  </row>
+  <row>
+    <index>8</index>
+    <id>9</id>
+    <title>WD 2TB Elements Portable External Hard Drive - USB 3.0 </title>
+    <price>64.0</price>
+    <category>electronics</category>
+    <rating_rate>3.3</rating_rate>
+    <rating_count>203</rating_count>
+  </row>
+  <row>
+    <index>9</index>
+    <id>10</id>
+    <title>SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s</title>
+    <price>109.0</price>
+    <category>electronics</category>
+    <rating_rate>2.9</rating_rate>
+    <rating_count>470</rating_count>
+  </row>
+  <row>
+    <index>10</index>
+    <id>11</id>
+    <title>Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5</title>
+    <price>109.0</price>
+    <category>electronics</category>
+    <rating_rate>4.8</rating_rate>
+    <rating_count>319</rating_count>
+  </row>
+  <row>
+    <index>11</index>
+    <id>12</id>
+    <title>WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive</title>
+    <price>114.0</price>
+    <category>electronics</category>
+    <rating_rate>4.8</rating_rate>
+    <rating_count>400</rating_count>
+  </row>
+  <row>
+    <index>12</index>
+    <id>13</id>
+    <title>Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin</title>
+    <price>599.0</price>
+    <category>electronics</category>
+    <rating_rate>2.9</rating_rate>
+    <rating_count>250</rating_count>
+  </row>
+  <row>
+    <index>13</index>
+    <id>14</id>
+    <title>Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED </title>
+    <price>999.99</price>
+    <category>electronics</category>
+    <rating_rate>2.2</rating_rate>
+    <rating_count>140</rating_count>
+  </row>
+  <row>
+    <index>14</index>
+    <id>15</id>
+    <title>BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats</title>
+    <price>56.99</price>
+    <category>women's clothing</category>
+    <rating_rate>2.6</rating_rate>
+    <rating_count>235</rating_count>
+  </row>
+  <row>
+    <index>15</index>
+    <id>16</id>
+    <title>Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket</title>
+    <price>29.95</price>
+    <category>women's clothing</category>
+    <rating_rate>2.9</rating_rate>
+    <rating_count>340</rating_count>
+  </row>
+  <row>
+    <index>16</index>
+    <id>17</id>
+    <title>Rain Jacket Women Windbreaker Striped Climbing Raincoats</title>
+    <price>39.99</price>
+    <category>women's clothing</category>
+    <rating_rate>3.8</rating_rate>
+    <rating_count>679</rating_count>
+  </row>
+  <row>
+    <index>17</index>
+    <id>18</id>
+    <title>MBJ Women's Solid Short Sleeve Boat Neck V </title>
+    <price>9.85</price>
+    <category>women's clothing</category>
+    <rating_rate>4.7</rating_rate>
+    <rating_count>130</rating_count>
+  </row>
+  <row>
+    <index>18</index>
+    <id>19</id>
+    <title>Opna Women's Short Sleeve Moisture</title>
+    <price>7.95</price>
+    <category>women's clothing</category>
+    <rating_rate>4.5</rating_rate>
+    <rating_count>146</rating_count>
+  </row>
+  <row>
+    <index>19</index>
+    <id>20</id>
+    <title>DANVOUY Womens T Shirt Casual Cotton Short</title>
+    <price>12.99</price>
+    <category>women's clothing</category>
+    <rating_rate>3.6</rating_rate>
+    <rating_count>145</rating_count>
+  </row>
+</data>
